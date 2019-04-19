@@ -1,5 +1,5 @@
 # Pytorch_tutorial
 
-Install using 
+Install using, 
 
 conda install PyTorch -c PyTorch 
